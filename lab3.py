@@ -1,0 +1,6 @@
+c = int(input("Ввести перше число:"))
+d = int(input("ввести друге число:"))
+v = int(c/10)
+f = int(d/10)
+g = (v*f)
+print (g)
